@@ -3,7 +3,6 @@ import { Route } from 'react-router';
 import { Layout } from './components/Layout';
 import Home from './components/Home';
 import Pictures from './components/Pictures'
-import Colors from './components/Colors'
 import Hotel from './components/Hotel'
 import HowEngaged from './components/HowEngaged'
 import HowMet from './components/HowMet'
@@ -18,7 +17,6 @@ export default function App() {
     <Layout>
       <Route exact path='/' component={Home} />
       <Route path='/pics' component={Pictures} />
-      <Route path='/colors' component={Colors} />
       <Route path='/hotel' component={Hotel} />
       <Route path='/engagement-story' component={HowEngaged} />
       <Route path='/how-we-met' component={HowMet} />

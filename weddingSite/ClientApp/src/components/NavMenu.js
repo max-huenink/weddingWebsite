@@ -22,7 +22,6 @@ export function NavMenu() {
                 <Nav.Link href="/how-we-met">How we met</Nav.Link>
               </NavDropdown>
               <NavDropdown title="Details">
-                <Nav.Link href="/colors">Colors</Nav.Link>
                 <Nav.Link href="/hotel">Hotel</Nav.Link>
                 <Nav.Link href="/itinerary">Itinerary</Nav.Link>
                 <Nav.Link href="/location">Location</Nav.Link>
