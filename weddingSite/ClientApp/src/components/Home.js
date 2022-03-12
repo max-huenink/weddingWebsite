@@ -1,7 +1,7 @@
 import React from 'react';
 import Cards from './Cards';
 
-export function Home() {
+export default function Home() {
   return (
     <div>
       <h1>We're getting married!</h1>
