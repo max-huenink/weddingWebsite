@@ -1,0 +1,14 @@
+﻿.card {
+    /*background-color: #82AC88;*/
+    background-color: #00224B;
+    color: silver;
+}
+
+a.cardLink {
+    color: unset;
+    text-decoration: unset;
+}
+
+a.cardLink:hover {
+    color: unset;
+}
